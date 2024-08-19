@@ -2,6 +2,7 @@ package doubly_Linked_List;
 
 
 //implementing DLL design 
+//A DLL is also known as two way travel linked list .
 public class DLL {
 	
 	private Node head;
